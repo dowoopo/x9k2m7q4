@@ -1,0 +1,13 @@
+{
+  "versionCode": 6,
+  "versionName": "正式版1.5",
+  "channel": "1.0",
+  "built": "2026-11-26",
+  "urls": [
+    "https://aka.doubaocdn.com/s/NvQNFVV5oe",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4/ePlay-1.0.apk",
+    "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay-1.0.apk"
+  ],
+  "size": 5293536,
+  "notes": "本次更新：清掉包内残留的旧标识（更新模块、日志标签、图标资源名、签名证书）；因为换了签名，需要先卸载旧版再安装。"
+}

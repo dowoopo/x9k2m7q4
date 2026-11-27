@@ -1,13 +1,13 @@
 {
-  "versionCode": 7,
-  "versionName": "正式版1.6",
+  "versionCode": 8,
+  "versionName": "正式版1.7",
   "channel": "1.0",
   "built": "2026-11-27",
   "urls": [
-    "https://aka.doubaocdn.com/s/1UNVW98wPe",
+    "https://aka.doubaocdn.com/s/pbmXBptQ6i",
     "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4/ePlay-1.0.apk",
     "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay-1.0.apk"
   ],
-  "size": 5338459,
-  "notes": "本次更新：界面换成冰蓝配色，夜间深黑底、日间浅蓝白，日夜同步；卡片间距调松、圆角加大，按钮不再拥挤；换新 App 图标。"
+  "size": 5338592,
+  "notes": "本次更新：桌面图标改为透明圆角，车机桌面不再出现四角黑块；连上 CarPlay 后自动开始播放音乐。"
 }

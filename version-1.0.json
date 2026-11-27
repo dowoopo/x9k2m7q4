@@ -1,13 +1,13 @@
 {
-  "versionCode": 6,
-  "versionName": "正式版1.5",
+  "versionCode": 7,
+  "versionName": "正式版1.6",
   "channel": "1.0",
-  "built": "2026-11-26",
+  "built": "2026-11-27",
   "urls": [
-    "https://aka.doubaocdn.com/s/NvQNFVV5oe",
+    "https://aka.doubaocdn.com/s/1UNVW98wPe",
     "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4/ePlay-1.0.apk",
     "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay-1.0.apk"
   ],
-  "size": 5293536,
-  "notes": "本次更新：清掉包内残留的旧标识（更新模块、日志标签、图标资源名、签名证书）；因为换了签名，需要先卸载旧版再安装。"
+  "size": 5338459,
+  "notes": "本次更新：界面换成冰蓝配色，夜间深黑底、日间浅蓝白，日夜同步；卡片间距调松、圆角加大，按钮不再拥挤；换新 App 图标；诊断报告文件名前缀改为 ePlay-。"
 }

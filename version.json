@@ -1,13 +1,13 @@
 {
-  "versionCode": 183,
-  "versionName": "beta1.5",
+  "versionCode": 184,
+  "versionName": "beta1.6",
   "channel": "0.2",
-  "built": "2026-11-26",
+  "built": "2026-11-27",
   "urls": [
-    "https://aka.doubaocdn.com/s/vF4V2DsYLQ",
+    "https://aka.doubaocdn.com/s/FlLVU0fusN",
     "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4/ePlay.apk",
     "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk"
   ],
-  "size": 5276414,
-  "notes": "本次更新：清掉包内残留的旧标识（更新模块、日志标签、图标资源名、签名证书）；因为换了签名，需要先卸载旧版再安装。"
+  "size": 5325433,
+  "notes": "本次更新：界面换成冰蓝配色，夜间深黑底、日间浅蓝白，日夜同步；卡片间距调松、圆角加大，按钮不再拥挤；换新 App 图标；诊断报告文件名前缀改为 ePlay-。"
 }

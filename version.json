@@ -7,10 +7,10 @@
     "https://aka.doubaocdn.com/s/3nYMnhAsgO",
     "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@9bcc0325553c8848d2d10310228acc600db8a774/ePlay.apk",
     "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@9bcc0325553c8848d2d10310228acc600db8a774/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/9bcc0325553c8848d2d10310228acc600db8a774/ePlay.apk",
-    "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk"
+    "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk",
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/9bcc0325553c8848d2d10310228acc600db8a774/ePlay.apk"
   ],
   "size": 5355247,
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "notes": "本次更新：\n- 修复更新包校验逻辑反向，下载正确的新包也会提示「校验失败」而无法安装\n- 下载源改为国内 CDN 直链优先，避免访问不到 GitHub 的节点"
+  "sha256": "86d6f2dcefc75a4d17332299b58fd19ca92ad4752f916a79313f33f25d9e09bd",
+  "notes": "本次更新：\n- 下载源改为固定版本地址与国内 CDN 直链，避免 CDN 缓存返回旧包\n- 更新列表去掉会返回旧包的备用节点"
 }

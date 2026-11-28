@@ -1,16 +1,16 @@
 {
-  "versionCode": 203,
-  "versionName": "beta1.25",
+  "versionCode": 204,
+  "versionName": "beta1.26",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
-    "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.25/ePlay.apk",
-    "https://aka.doubaocdn.com/s/KPrJTTgQIK",
-    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@e452df1/ePlay.apk",
-    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@e452df1/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/e452df1/ePlay.apk"
+    "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.26/ePlay.apk",
+    "https://aka.doubaocdn.com/s/JKQhxRq6vz",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@c69e3d3/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@c69e3d3/ePlay.apk",
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/c69e3d3/ePlay.apk"
   ],
   "size": 5284951,
-  "sha256": "f03890e841fc59acf7ff600cdea3cc4f806d54a227e163962f317f42253e30bc",
-  "notes": "断连优化：手机蓝牙一断（走远）即 1.5 秒内关闭 CarPlay 页返回连接页，不再等 Wi-Fi 心跳超时的几十秒。未解决：再上车卡第4步 Wi-Fi（车机热点未能启动）"
+  "sha256": "f682df65fdbd20278b68d15fbeb1e6b2ae38ec91e7964a0fd6aacdec7bfa68d9",
+  "notes": "断连退页改为不依赖蓝牙：AirPlay 会话一结束即 600ms 内关闭 CarPlay 页返回连接页，走远断开不再卡几十秒。未解决：再上车卡第4步 Wi-Fi（车机热点未能启动）"
 }

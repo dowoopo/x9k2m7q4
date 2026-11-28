@@ -1,13 +1,14 @@
 {
-  "versionCode": 185,
-  "versionName": "beta1.7",
+  "versionCode": 193,
+  "versionName": "beta1.15",
   "channel": "0.2",
-  "built": "2026-11-27",
+  "built": "2026-11-28",
   "urls": [
-    "https://aka.doubaocdn.com/s/BqWfuzQEt4",
     "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4/ePlay.apk",
-    "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk"
+    "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk",
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/main/ePlay.apk"
   ],
-  "size": 5325566,
-  "notes": "本次更新：桌面图标改为透明圆角，车机桌面不再出现四角黑块；连上 CarPlay 后自动开始播放音乐。"
+  "size": 5351093,
+  "sha256": "483983ffadb51f78566dba381edfa234cd58c335557adb44033f91e5a64d2ebf",
+  "notes": "本次更新：修复深度测试报告 12 项 — 更新包 sha256/签名校验、关闭明文流量、搜索态左栏恢复、200% 左栏可见、诊断页重试可跳 VPN 设置、报告保存回退应用内、首页返回键二次确认。"
 }

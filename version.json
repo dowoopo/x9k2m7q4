@@ -1,14 +1,16 @@
 {
-  "versionCode": 193,
-  "versionName": "beta1.15",
+  "versionCode": 194,
+  "versionName": "beta1.16",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
     "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4/ePlay.apk",
+    "https://gcore.jsdelivr.net/gh/dowoopo/x9k2m7q4/ePlay.apk",
     "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk",
     "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/main/ePlay.apk"
   ],
   "size": 5351093,
-  "sha256": "39095bf0aa2c091fa22a7e12acaa9e98d75ba16d1a6ee253121b71c0aa61e5fe",
-  "notes": "本次更新：修复深度测试报告 12 项 — 更新包 sha256/签名校验、关闭明文流量、搜索态左栏恢复、200% 左栏可见、诊断页重试可跳 VPN 设置、报告保存回退应用内、首页返回键二次确认。"
+  "sha256": "398bded884c541bbb179940a86f733ea26460cd8379d2bfce137a091c017a3c8",
+  "notes": "本次更新：修复更新时卡在 0% — 下载进度按 KB 实时显示、连接/读取超时收紧为 6s/10s、每个下载源失败会提示并自动切换备用源、失败提示统一为中文并去掉重复弹窗。"
 }

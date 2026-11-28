@@ -9,6 +9,6 @@
     "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/main/ePlay.apk"
   ],
   "size": 5351093,
-  "sha256": "483983ffadb51f78566dba381edfa234cd58c335557adb44033f91e5a64d2ebf",
+  "sha256": "39095bf0aa2c091fa22a7e12acaa9e98d75ba16d1a6ee253121b71c0aa61e5fe",
   "notes": "本次更新：修复深度测试报告 12 项 — 更新包 sha256/签名校验、关闭明文流量、搜索态左栏恢复、200% 左栏可见、诊断页重试可跳 VPN 设置、报告保存回退应用内、首页返回键二次确认。"
 }

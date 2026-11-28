@@ -1,16 +1,16 @@
 {
-  "versionCode": 202,
-  "versionName": "beta1.24",
+  "versionCode": 203,
+  "versionName": "beta1.25",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
-    "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.24/ePlay.apk",
-    "https://aka.doubaocdn.com/s/ZOZCyEngwW",
-    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@2c5daee/ePlay.apk",
-    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@2c5daee/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/2c5daee/ePlay.apk"
+    "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.25/ePlay.apk",
+    "https://aka.doubaocdn.com/s/KPrJTTgQIK",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@e452df1/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@e452df1/ePlay.apk",
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/e452df1/ePlay.apk"
   ],
   "size": 5284951,
-  "sha256": "29d3e53ab908dd7c19932ea02f432a277754b1bf9ef409812ced4d24f7ce617a",
-  "notes": "修复更新包下载失败（Download 目录不存在就报校验失败）：改为多级兜底目录 Download→Android/data→emulated/0→/data/local/tmp；导航音频通道恢复第10路（默认10、旧配置5自动迁移10，对齐1.7）；断连后重连退避30秒改为5秒。未解决：再上车卡第4步Wi-Fi（车机热点未能启动）"
+  "sha256": "f03890e841fc59acf7ff600cdea3cc4f806d54a227e163962f317f42253e30bc",
+  "notes": "断连优化：手机蓝牙一断（走远）即 1.5 秒内关闭 CarPlay 页返回连接页，不再等 Wi-Fi 心跳超时的几十秒。未解决：再上车卡第4步 Wi-Fi（车机热点未能启动）"
 }

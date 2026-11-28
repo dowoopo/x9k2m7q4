@@ -1,16 +1,16 @@
 {
-  "versionCode": 197,
-  "versionName": "beta1.19",
+  "versionCode": 199,
+  "versionName": "beta1.21",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
-    "https://aka.doubaocdn.com/s/96YH2E0Nk5",
-    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@efedd65bb3aa3473ffc569d16019c0784509776f/ePlay.apk",
-    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@efedd65bb3aa3473ffc569d16019c0784509776f/ePlay.apk",
+    "https://aka.doubaocdn.com/s/Z6cU30QV77",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@e43d1b2/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@e43d1b2/ePlay.apk",
     "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/efedd65bb3aa3473ffc569d16019c0784509776f/ePlay.apk"
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/e43d1b2/ePlay.apk"
   ],
   "size": 5355247,
-  "sha256": "16e0a9c5718d861673e0f094293e1fc0da2067221bcea4d194f45bb76da5c46b",
-  "notes": "本次更新：\n- 导航音频改用独立的通知流，不再和音乐共用同一个音量通道\n- 无效的音频流类型自动回退到可用通道"
+  "sha256": "3a2d1fe61574792e4c965ec44c0429626ffb769704c956db6895c1edf9d7f65d",
+  "notes": "本次更新：\n- 下载目录不可写时自动切换到应用私有目录，修复“下载源都不可用”\n- 导航播报改为通知流下发，在 Android 5.1 上不再并入媒体音量\n- 断连后 45 秒内不再重复触发自动连接，避免上车重连两次"
 }

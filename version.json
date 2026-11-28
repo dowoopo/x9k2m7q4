@@ -1,16 +1,16 @@
 {
   "versionCode": 200,
-  "versionName": "beta1.21-test",
+  "versionName": "beta1.22-test",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
-    "https://aka.doubaocdn.com/s/q5OPPlyLT2",
-    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@d0e80f1/ePlay.apk",
-    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@d0e80f1/ePlay.apk",
+    "https://aka.doubaocdn.com/s/NT7M59msIl",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@f307250/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@f307250/ePlay.apk",
     "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.21/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/d0e80f1/ePlay.apk"
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/f307250/ePlay.apk"
   ],
   "size": 5355247,
-  "sha256": "352f0e6d5ebdd81b50aae36e9567daae6a892be911b80792a08699f3d1e8e62a",
-  "notes": "测试清单：验证下载目录兜底"
+  "sha256": "afbf1b5fbb1ffa36198768d0add5d4769c1c1b56917d799b80c8c74cea684ae1",
+  "notes": "测试清单：验证下载目录兜底与更新全链路"
 }

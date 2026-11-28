@@ -1,16 +1,16 @@
 {
-  "versionCode": 200,
-  "versionName": "beta1.22",
+  "versionCode": 201,
+  "versionName": "beta1.23",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
-    "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.22/ePlay.apk",
-    "https://aka.doubaocdn.com/s/VDHpQuBUP2",
-    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@2f2e609/ePlay.apk",
-    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@2f2e609/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/2f2e609/ePlay.apk"
+    "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.23/ePlay.apk",
+    "https://aka.doubaocdn.com/s/P9FivsUbT1",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@4c8a568/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@4c8a568/ePlay.apk",
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/4c8a568/ePlay.apk"
   ],
   "size": 5284951,
-  "sha256": "7ee10f2a0b84c9de07de0600d1debbc6492e56422695342ea61c192391acff90",
-  "notes": "导航与音乐音量分开：导航音频 usage 改为通知组、流类型 5、默认 5；连接后 30 秒内自动续播；蓝牙连接 45 秒节流；更新包下载后校验 sha/包名/签名，失败写入 updater.log 并重试下一个源"
+  "sha256": "01422bac9aa0980670527c3b365fd06e4e057d27fb43320044dbac806f77d47b",
+  "notes": "导航音频通道恢复第10路（默认10、超限落10、旧配置5自动迁移10，对齐1.7行为）；断连后重连退避30秒改为5秒，下车断开更快回连接页。未解决：再上车卡第4步Wi-Fi（车机热点未能启动）"
 }

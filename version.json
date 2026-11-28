@@ -1,16 +1,16 @@
 {
-  "versionCode": 196,
-  "versionName": "beta1.18",
+  "versionCode": 197,
+  "versionName": "beta1.19",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
-    "https://aka.doubaocdn.com/s/3nYMnhAsgO",
-    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@9bcc0325553c8848d2d10310228acc600db8a774/ePlay.apk",
-    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@9bcc0325553c8848d2d10310228acc600db8a774/ePlay.apk",
+    "https://aka.doubaocdn.com/s/96YH2E0Nk5",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@efedd65bb3aa3473ffc569d16019c0784509776f/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@efedd65bb3aa3473ffc569d16019c0784509776f/ePlay.apk",
     "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/9bcc0325553c8848d2d10310228acc600db8a774/ePlay.apk"
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/efedd65bb3aa3473ffc569d16019c0784509776f/ePlay.apk"
   ],
   "size": 5355247,
-  "sha256": "86d6f2dcefc75a4d17332299b58fd19ca92ad4752f916a79313f33f25d9e09bd",
-  "notes": "本次更新：\n- 下载源改为固定版本地址与国内 CDN 直链，避免 CDN 缓存返回旧包\n- 更新列表去掉会返回旧包的备用节点"
+  "sha256": "16e0a9c5718d861673e0f094293e1fc0da2067221bcea4d194f45bb76da5c46b",
+  "notes": "本次更新：\n- 导航音频改用独立的通知流，不再和音乐共用同一个音量通道\n- 无效的音频流类型自动回退到可用通道"
 }

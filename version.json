@@ -1,16 +1,16 @@
 {
   "versionCode": 200,
-  "versionName": "beta1.22-test",
+  "versionName": "beta1.22",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
-    "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.21/ePlay.apk",
-    "https://aka.doubaocdn.com/s/zGUGhCm6Yy",
-    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@b063153/ePlay.apk",
-    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@b063153/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/b063153/ePlay.apk"
+    "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.22/ePlay.apk",
+    "https://aka.doubaocdn.com/s/YVLulaUhxA",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@37ead4b/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@37ead4b/ePlay.apk",
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/37ead4b/ePlay.apk"
   ],
-  "size": 5359343,
-  "sha256": "269ef2fe230c410eb33c74f11eec62935fca8e979febfafd0d50ab58d9199655",
-  "notes": "测试清单：验证下载目录兜底与更新全链路"
+  "size": 5284951,
+  "sha256": "815d8daea32dcc5f45fa9cc83dc52b6116a687fdda3c04ad3d12ba9dc34b5b75",
+  "notes": "导航与音乐音量分开：导航音频 usage 改为通知组、流类型 5、默认 5；连接后 30 秒内自动续播；蓝牙连接 45 秒节流；更新包下载后校验 sha/包名/签名，失败自动换源并写入 updater.log"
 }

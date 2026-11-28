@@ -1,6 +1,6 @@
 {
-  "versionCode": 194,
-  "versionName": "beta1.16",
+  "versionCode": 195,
+  "versionName": "beta1.17",
   "channel": "0.2",
   "built": "2026-11-28",
   "urls": [
@@ -10,7 +10,7 @@
     "https://github.com/dowoopo/x9k2m7q4/releases/latest/download/ePlay.apk",
     "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/main/ePlay.apk"
   ],
-  "size": 5351093,
-  "sha256": "398bded884c541bbb179940a86f733ea26460cd8379d2bfce137a091c017a3c8",
-  "notes": "本次更新：修复更新时卡在 0% — 下载进度按 KB 实时显示、连接/读取超时收紧为 6s/10s、每个下载源失败会提示并自动切换备用源、失败提示统一为中文并去掉重复弹窗。"
+  "size": 5355247,
+  "sha256": "74fa11b99a6dedbc3234db78450c64954938cf51c58a887dd83272e4ee0985e2",
+  "notes": "本次更新：\n- 无线 CarPlay 断开后自动复位 Wi-Fi Direct（蓝牙断开 8 秒后触发），重连前先复位再重建，不用再手动点按钮\n- 诊断报告上传改走新通道，失败时会显示真实原因，不再只提示“请检查网络”\n- 报告通知和上报内容带上车机 8 位设备码，便于区分多台车机"
 }

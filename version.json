@@ -5,12 +5,12 @@
   "built": "2026-11-28",
   "urls": [
     "https://github.com/dowoopo/x9k2m7q4/releases/download/beta1.21/ePlay.apk",
-    "https://aka.doubaocdn.com/s/GUMabGzpfH",
-    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@4cc3dee/ePlay.apk",
-    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@4cc3dee/ePlay.apk",
-    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/4cc3dee/ePlay.apk"
+    "https://aka.doubaocdn.com/s/zGUGhCm6Yy",
+    "https://cdn.jsdelivr.net/gh/dowoopo/x9k2m7q4@b063153/ePlay.apk",
+    "https://fastly.jsdelivr.net/gh/dowoopo/x9k2m7q4@b063153/ePlay.apk",
+    "https://raw.githubusercontent.com/dowoopo/x9k2m7q4/b063153/ePlay.apk"
   ],
   "size": 5359343,
-  "sha256": "32247b41294c8061a4c20f4d3e2d74b1b468c68298f16ac0fc479801715cf8b6",
+  "sha256": "269ef2fe230c410eb33c74f11eec62935fca8e979febfafd0d50ab58d9199655",
   "notes": "测试清单：验证下载目录兜底与更新全链路"
 }
